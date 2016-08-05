@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GetAppInfo</string>
+    <string name="app_name2">BaiDu</string>
+    <string name="ta">TActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="final_color">最终匹配颜色</string>
+
+    <array name="filter">
+        <item>用户应用</item>
+        <item>系统应用</item>
+        <item>所有应用</item>
+        <!--item>~个税申报~</item-->
+    </array>
+
+    <!-- 12w 申报 -->
+    <array name="title_12w">
+        <item>月份</item>
+        <item>工资总额</item>
+        <item>三险一金</item>
+        <item>个税</item>
+        <item>净收入</item>
+    </array>
+</resources>
